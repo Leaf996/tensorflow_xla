@@ -16,6 +16,6 @@
 # Reference
 - [XLA-TensorFlow, compiled][1]
 - [XLA Architecture][2]
-
+# Link
 [1]:[https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html]
 [2]:https://www.tensorflow.org/xla/architecture
